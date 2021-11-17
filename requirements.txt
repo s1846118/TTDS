@@ -1,0 +1,2 @@
+nltk==3.6.5
+typing_extensions==3.10.0.2

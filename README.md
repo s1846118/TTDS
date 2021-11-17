@@ -1,0 +1,1 @@
+This repository is for my first assignment for the class "Text Technologies for Data Science". This assignment consists of searching through a large corpus (located in "collections"  and stored as a .txt file or .xml file, which I have parsed accordingly) ad implementing some basic IR functions such as tokenising, stemming and indexing - see 'code.py'. # TTDS1
